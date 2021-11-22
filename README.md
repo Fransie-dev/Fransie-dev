@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Francois.
+- 👀 I’m interested in data science, machine learning, automation and optimization.
+- 🌱 I’m currently learning more about NLP.
